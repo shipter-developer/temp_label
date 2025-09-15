@@ -1,0 +1,4 @@
+
+# node_modules 디렉토리 전체 무시
+node_modules/
+logs/

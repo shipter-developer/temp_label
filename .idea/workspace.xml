@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86d8822f-1eb6-4696-8777-01f2f2d81f3d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2k2yqsqBfuh4DsVLVdhGiALS6B5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hyundaekim/Documents/project/label_shipter/src/fonts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.CSS&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/hyundaekim/Documents/project/label_shipter/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fonts" />
+      <recent name="$PROJECT_DIR$/src/img/JOOM" />
+      <recent name="$PROJECT_DIR$/src/labels/jm" />
+      <recent name="$PROJECT_DIR$/src/img/UZ_POST" />
+      <recent name="$PROJECT_DIR$/src/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/labels" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d8822f-1eb6-4696-8777-01f2f2d81f3d" name="Changes" comment="" />
+      <created>1722496159227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722496159227</updated>
+      <workItem from="1722496160407" duration="89942000" />
+      <workItem from="1723419858853" duration="7375000" />
+      <workItem from="1724732087892" duration="2779000" />
+      <workItem from="1725433954466" duration="41434000" />
+      <workItem from="1725842439609" duration="58000" />
+      <workItem from="1725843033818" duration="247000" />
+      <workItem from="1725843305982" duration="104000" />
+      <workItem from="1725843422330" duration="236000" />
+      <workItem from="1725843666792" duration="258000" />
+      <workItem from="1725843930140" duration="6081000" />
+      <workItem from="1726098536943" duration="1243000" />
+      <workItem from="1726107176103" duration="599000" />
+      <workItem from="1726116327706" duration="1966000" />
+      <workItem from="1727326829972" duration="1854000" />
+      <workItem from="1730166770035" duration="5311000" />
+      <workItem from="1730779954264" duration="598000" />
+      <workItem from="1731283342042" duration="598000" />
+      <workItem from="1732495522672" duration="2451000" />
+      <workItem from="1734067992093" duration="19887000" />
+      <workItem from="1735514974567" duration="7381000" />
+      <workItem from="1736495068534" duration="1883000" />
+      <workItem from="1737421583512" duration="4740000" />
+      <workItem from="1738299387720" duration="2420000" />
+      <workItem from="1738910026435" duration="598000" />
+      <workItem from="1739491339940" duration="599000" />
+      <workItem from="1740013989514" duration="3173000" />
+      <workItem from="1740448650517" duration="14000" />
+      <workItem from="1740535606864" duration="12000" />
+      <workItem from="1740542645386" duration="6776000" />
+      <workItem from="1741136385491" duration="19274000" />
+      <workItem from="1741564779098" duration="103000" />
+      <workItem from="1742199411581" duration="5761000" />
+      <workItem from="1743387209270" duration="43414000" />
+      <workItem from="1743983482465" duration="42403000" />
+      <workItem from="1745474980257" duration="3629000" />
+      <workItem from="1747703597390" duration="65724000" />
+      <workItem from="1748388965211" duration="49000" />
+      <workItem from="1748389157397" duration="49223000" />
+      <workItem from="1749531350861" duration="16235000" />
+      <workItem from="1750206632870" duration="11918000" />
+      <workItem from="1751352438597" duration="30000" />
+      <workItem from="1751518553765" duration="9608000" />
+      <workItem from="1752022726128" duration="2302000" />
+      <workItem from="1753677422949" duration="15708000" />
+      <workItem from="1754868957295" duration="38000" />
+      <workItem from="1754875963956" duration="373000" />
+      <workItem from="1754889145938" duration="929000" />
+      <workItem from="1755157982079" duration="2163000" />
+      <workItem from="1755840464692" duration="24000" />
+      <workItem from="1756130798627" duration="6214000" />
+      <workItem from="1756338891637" duration="8252000" />
+      <workItem from="1757054334721" duration="14000" />
+      <workItem from="1757378810649" duration="3343000" />
+      <workItem from="1757555439566" duration="792000" />
+      <workItem from="1757762916019" duration="24000" />
+      <workItem from="1757896378224" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/config/pool.ts</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/labels/SHIPTER.tsx</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

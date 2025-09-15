@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d530e17e-bef2-45b5-a126-84a2bdceb098" name="h3pays.com">
+        <fileTransfer accessType="SFTP" host="h3pays.com" port="22" sshConfigId="4e953b27-2317-4d1d-baec-b4158f535b15" sshConfig="root@h3pays.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
